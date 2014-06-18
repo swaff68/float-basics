@@ -42,3 +42,16 @@
 	float: left;
 	margin-right: 1%;
 }
+
+.box-blue{
+	height: 25px;
+	width: 5%;
+	background-color: blue;
+	float: right;
+	margin-left: 1%;
+}
+
+.box-green{
+	height: 50px;
+	background-color: green;
+}
